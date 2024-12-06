@@ -9,5 +9,6 @@ The DSP48A1 slice is a critical component for digital signal processing, enablin
 
 ## Built Using <a name = "tech"></a>
 - ![Verilog](https://img.shields.io/badge/-Verilog%20-05122A?style=flat&logo=Verilog)&nbsp;
+- ![tcl](https://img.shields.io/badge/-tcl%20-05122A?style=flat&logo=tcl)&nbsp;
 
 
